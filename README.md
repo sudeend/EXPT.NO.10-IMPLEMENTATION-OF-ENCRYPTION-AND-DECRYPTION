@@ -14,6 +14,7 @@ PC with Linux operating system
 6]	The encrypted form of the message is displayed.
 7]	The decrypted form is also displayed as final output. 8] Thus the output is obtained.
 ```
+
 # PROGRAM:
 ```
 #include<stdio.h> #include<stdlib.h> #include<math.h> #include<string.h>
@@ -104,7 +105,6 @@ for(i=0;m[i]!=-1; i++
 )
 printf("%c",m[i]);
 }
-
 ```
 
 # OUTPUT:
